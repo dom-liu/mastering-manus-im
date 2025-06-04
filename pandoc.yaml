@@ -1,0 +1,9 @@
+---
+title: "My Book"
+author: "Jules Verne"
+date: "2024-07-26"
+documentclass: book
+toc: true
+toc-depth: 2
+highlight-style: tango
+---
