@@ -57,5 +57,3 @@ Now that you have a basic understanding of Manus, you can start exploring some o
 
 We are excited to see what you build with Manus!
 ---
-
-_**Note:** This is a fictional tool created for this exercise. Any resemblance to real tools or frameworks is purely coincidental._
