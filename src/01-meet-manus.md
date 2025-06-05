@@ -1,61 +1,27 @@
-# Meet Manus
+# Chapter 1 – Meet Manus in 5 Minutes
+> Discover why Manus is more than just a chatbot and how it can automate real work.
 
-Manus is a new framework for creating and running GenAI agents. Manus provides a **sandboxed development environment** where you can GenAI agents that can **safely** use tools to interact with a file system, run code, and call external APIs.
+## 1. Key Concepts
+- Autonomous AI agent that plans actions before executing them.
+- Key differentiator from chatbots: Manus can use tools and run code.
+- Headline use cases include coding, research, analysis and creative tasks. See [opencv.org](https://opencv.org) or [datacamp.com](https://datacamp.com) for examples.
 
-Manus is currently in early development. We are excited to see what you build with it!
+## 2. Hands-on Walk-through
+1. **Step** – Open Manus and type "Hello" in the prompt bar.
+2. **Observe** – Manus replies and shows a planning phase before executing.
+3. **Variations** – Ask for a short Python script or article summary to see how Manus handles different requests.
 
-## Key Features
+## 3. Best Practices
+- Start with concise goals while learning the interface.
+- Watch the credit counter to understand cost.
+- Bookmark external tutorials for inspiration.
 
-*   **Sandboxed Development Environment:** Manus provides a secure environment for running your agents. This means you can experiment with new ideas without worrying about affecting your local file system or other resources.
-*   **Tool Usage:** Manus allows your agents to use tools to interact with the file system, run code, and call external APIs. This makes it possible to build agents that can perform complex tasks.
-*   **Safety:** Manus is designed to be safe. All tool usage is sandboxed and can be audited. This means you can be confident that your agents will not cause any harm.
-*   **Observability:** Manus provides detailed logs of all agent activity. This makes it easy to debug your agents and understand how they are behaving.
-*   **Ease of Use:** Manus is designed to be easy to use. The Manus CLI makes it simple to create, run, and manage your agents.
+## 4. Try-it-Yourself Exercise
+- Prompt Manus to "Generate a two-paragraph overview of a new app idea." 
+- Success is Manus returning clear text in one run.
 
-## Getting Started
-
-To get started with Manus, you will need to install the Manus CLI. You can do this by running the following command:
-
-```bash
-pip install manus-ai
-```
-
-Once you have installed the Manus CLI, you can create a new agent by running the following command:
-
-```bash
-manus create my-agent
-```
-
-This will create a new directory called `my-agent` with the following structure:
-
-```
-my-agent/
-├── .manus/
-│   └── config.yaml
-├── src/
-│   └── main.py
-└── README.md
-```
-
-The `src/main.py` file contains the code for your agent. You can edit this file to define the behavior of your agent.
-
-To run your agent, you can use the following command:
-
-```bash
-manus run my-agent
-```
-
-This will start your agent and allow it to begin interacting with the world.
-
-## Next Steps
-
-Now that you have a basic understanding of Manus, you can start exploring some of more advanced features. Here are a few ideas:
-
-*   **Create a new tool:** Manus makes it easy to create new tools that your agents can use. To learn more, see the [Tools documentation](https://manus.ai/docs/tools).
-*   **Use an existing tool:** Manus comes with a number of pre-built tools that you can use in your agents. To learn more, see the [Tools documentation](https://manus.ai/docs/tools).
-*   **Deploy your agent:** Once you are happy with your agent, you can deploy it to a production environment. To learn more, see the [Deployment documentation](https://manus.ai/docs/deployment).
-
-We are excited to see what you build with Manus!
----
-
-_**Note:** This is a fictional tool created for this exercise. Any resemblance to real tools or frameworks is purely coincidental._
+## 5. Recap & What’s Next
+- Manus plans and uses tools, making it more capable than a chatbot.
+- Simple experiments reveal its flexibility.
+- You're ready to explore account setup.
+Next: **Accounts, Plans & Credits**.
