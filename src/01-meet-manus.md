@@ -1,6 +1,6 @@
 # Meet Manus
 
-Manus is a new framework for creating and running GenAI agents. Manus provides a **sandboxed development environment** where you can GenAI agents that can **safely** use tools to interact with a file system, run code, and call external APIs.
+Manus is a new framework for creating and running GenAI agents. Manus provides a **sandboxed development environment** where you can **create** GenAI agents that can **safely** use tools to interact with a file system, run code, and call external APIs.
 
 Manus is currently in early development. We are excited to see what you build with it!
 
